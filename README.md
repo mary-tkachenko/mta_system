@@ -27,7 +27,6 @@ ruby mta.rb calculate L union_square 6 33rd
  2</p>
 <p>A user is notified if they don’t provide the correct number of arguments.
 ruby mta.rb calculate sadasd</p>
-You must provide the 4 arguments - STARTINGLINE STOP ENDINGLINE STOP
 <p><strong>Structure</strong></p>
 <p>You should have two files. One called mta.rb and the other called structure.rb</p>
 <p>Your mta.rb will be where you process all the commands from a users input</p>
